@@ -1,0 +1,1 @@
+Para el funcionamiento de pyngrok se requiere la configuración de un authtoken personal, el cual se obtiene al registrarse gratuitamente en el panel de control de ngrok (https://dashboard.ngrok.com/get-started/your-authtoken). Para una ejecución fluida y segura del proyecto, es necesario que este authtoken se guarde en un archivo de texto llamado token_ngro
